@@ -7,6 +7,13 @@ Maybe you're tired. Listen to some music.
 200
 
 # files
-Alone32.md ( Contains a link to the music)
+---------------------------------------------------
+Alone32.ogg
 
-Alone64.md ( Contains a link to the music)
+Link: https://drive.google.com/open?id=1xwGGTjOdy2qEn3iwselfmhJW_964wKvr 
+-----------------------------------------------------
+------------------------------------
+Alone64.ogg
+
+Link: https://drive.google.com/open?id=1HXxPF-D1pnEWdzgBtxaMee6Im8YwZV21
+--------------------------------
