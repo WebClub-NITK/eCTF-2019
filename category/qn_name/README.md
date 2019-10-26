@@ -1,8 +1,0 @@
-### Challenge  
-
-### Hint  
-
-### Points  
-
-### Files  
-
